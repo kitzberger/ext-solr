@@ -29,7 +29,7 @@ statistics.anonymizeIP
 :Since: 2.0
 :Default: 0
 
-Defines the number of octets of the IP address to anonymize in the statistics log records.
+Defines the number of characters of the IP address to anonymize in the statistics log records. Set it to "15" to fully anonymize an IPv4 address.
 
 statistics.addDebugData
 -----------------------
